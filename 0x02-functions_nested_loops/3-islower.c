@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * islower - tells if input is lower case
+ * _islower - Describes the main function
  *
- * Return: int (1 if it is lower and 0 if otherwise)
- *
+ * Description: 
+ * @c: is the parameter
+ * Return: int;
  */
-
 int _islower(int c)
 {
 
